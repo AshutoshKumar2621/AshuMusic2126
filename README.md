@@ -43,4 +43,3 @@ This project showcases Ashutosh's strong grasp of JavaScript, as well as his abi
 
 
 
-New version of GPT availabl
