@@ -1,5 +1,5 @@
 # AshuMusic2126
-Project Summary: Music Player Application by Ashutosh
+Project Summary: Music Player Application by Ashutosh,
 Ashutosh has developed a dynamic Music Player Web Application that allows users to browse, play, and manage multiple playlists seamlessly. This project includes features for selecting different playlists, automatically playing songs, controlling playback, and adjusting volume—making it a highly interactive and responsive music player.
 
 Key Features:
